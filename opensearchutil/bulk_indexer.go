@@ -38,8 +38,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/opensearch-project/opensearch-go/v2"
-	"github.com/opensearch-project/opensearch-go/v2/opensearchapi"
+	"github.com/nicolascb/opensearch-go/v2"
+	"github.com/nicolascb/opensearch-go/v2/opensearchapi"
 )
 
 // BulkIndexer represents a parallel, asynchronous, efficient indexer for OpenSearch.

@@ -36,8 +36,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/opensearch-project/opensearch-go/v2"
-	"github.com/opensearch-project/opensearch-go/v2/opensearchapi"
+	"github.com/nicolascb/opensearch-go/v2"
+	"github.com/nicolascb/opensearch-go/v2/opensearchapi"
 )
 
 var defaultResponse = http.Response{
