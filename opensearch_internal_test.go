@@ -42,7 +42,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/opensearch-project/opensearch-go/v2/opensearchtransport"
+	"github.com/nicolascb/opensearch/v2/opensearchtransport"
 )
 
 var called bool

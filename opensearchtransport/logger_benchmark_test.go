@@ -35,7 +35,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/opensearch-project/opensearch-go/v2/opensearchtransport"
+	"github.com/nicolascb/opensearch/v2/opensearchtransport"
 )
 
 func BenchmarkTransportLogger(b *testing.B) {

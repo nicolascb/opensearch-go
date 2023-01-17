@@ -221,9 +221,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/opensearch-project/opensearch-go/v2"
-	"github.com/opensearch-project/opensearch-go/v2/opensearchapi"
-	"github.com/opensearch-project/opensearch-go/v2/opensearchtransport"
+	"github.com/nicolascb/opensearch/v2"
+	"github.com/nicolascb/opensearch/v2/opensearchapi"
+	"github.com/nicolascb/opensearch/v2/opensearchtransport"
 )
 
 var (

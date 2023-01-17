@@ -39,7 +39,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/opensearch-project/opensearch-go/v2/internal/build/utils"
+	"github.com/nicolascb/opensearch/v2/internal/build/utils"
 )
 
 const testCheck = "\t" + `if err != nil {            // SKIP

@@ -36,7 +36,7 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/opensearch-project/opensearch-go/v2/internal/build/utils"
+	"github.com/nicolascb/opensearch/v2/internal/build/utils"
 )
 
 var (

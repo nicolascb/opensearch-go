@@ -36,8 +36,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/opensearch-project/opensearch-go/v2"
-	"github.com/opensearch-project/opensearch-go/v2/opensearchtransport"
+	"github.com/nicolascb/opensearch/v2"
+	"github.com/nicolascb/opensearch/v2/opensearchtransport"
 )
 
 func init() {

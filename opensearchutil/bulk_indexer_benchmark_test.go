@@ -37,8 +37,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/opensearch-project/opensearch-go/v2"
-	"github.com/opensearch-project/opensearch-go/v2/opensearchutil"
+	"github.com/nicolascb/opensearch/v2"
+	"github.com/nicolascb/opensearch/v2/opensearchutil"
 )
 
 var mockResponseBody = `{
